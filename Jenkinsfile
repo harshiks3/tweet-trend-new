@@ -4,7 +4,7 @@ pipeline {
 
         node {
 
-            label 'mvn'
+            label 'Linux-Agent'
 
         }
 
